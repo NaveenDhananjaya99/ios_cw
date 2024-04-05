@@ -11,7 +11,8 @@ import SwiftUI
 struct IosCWApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//   SpalshScreen()
+            LoginPage()
         }
     }
 }
